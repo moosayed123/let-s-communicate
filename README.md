@@ -1,2 +1,3 @@
 # let-s-communicate
-The code for my solution is not the two fronts 
+The code for my solution is the two parts
+
